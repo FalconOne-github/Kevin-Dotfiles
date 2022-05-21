@@ -1,0 +1,5 @@
+
+
+#//192./music /home/kevin/music cifs user=xxxxxxx,pass=xxxxxxxxx 0 0
+//192./music /home/kevin/Music cifs credentials=/home/kevin/.smbcredentials 0 0
+//192./home /mnt/synology cifs credentials=/home/kevin/.smbcredentials 0 0
